@@ -1,6 +1,6 @@
 # Software-Development-Tools-Project
 
-This project is a tool to simulate random events. It provides a simple interface for users to simulate various types of random events, such as coin flips, dice rolls, or random number generation within specified ranges.
+This project is a tool to simulate EDA of Vehical Data
 
 ## Description
 
